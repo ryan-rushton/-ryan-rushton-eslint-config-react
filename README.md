@@ -1,3 +1,3 @@
-# @ryan-rushton/eslint-config-react
+# @ryan-rushton/eslint-config
 
-My preferred eslint config for React.
+Makes managing my eslint config a little easier and more consistent between projects.

@@ -1,12 +1,14 @@
 {
     "name": "@ryan-rushton/eslint-config",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Eslint config, just the way I like it!",
     "files": [
         "index.js",
         "prettier.js",
         "react.js",
-        "react-prettier.js"
+        "react-prettier.js",
+        "typescript.js",
+        "typescript-react-prettier.js"
     ],
     "repository": {
         "type": "git",

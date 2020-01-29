@@ -13,5 +13,8 @@ module.exports = {
     plugins: [...react.plugins, ...prettier.plugins, ...typescript.plugins],
     parserOptions: typescript.parserOptions,
     env: react.env,
-    settings: { ...react.settings, ...typescript.settings }
+    settings: { ...react.settings, ...typescript.settings },
+    rules: {
+        "react/prop-types": "off"
+    }
 };

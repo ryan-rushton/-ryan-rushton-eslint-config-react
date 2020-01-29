@@ -5,11 +5,11 @@ Makes managing my eslint config a little easier and more consistent between proj
 To install run
 
 ```
-npm install --save-dev eslint prettier babel-eslint eslint-config-prettier eslint-plugin-babel eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks @ryan-rushton/eslint-config
+npm install --save-dev eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser prettier babel-eslint eslint-config-prettier eslint-plugin-babel eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks @ryan-rushton/eslint-config
 ```
 
 or
 
 ```
-yarn add --dev eslint prettier babel-eslint eslint-config-prettier eslint-plugin-babel eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks @ryan-rushton/eslint-config
+yarn add --dev eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser prettier babel-eslint eslint-config-prettier eslint-plugin-babel eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks @ryan-rushton/eslint-config
 ```
